@@ -1,0 +1,7 @@
+{
+  "name": "secure-content",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
